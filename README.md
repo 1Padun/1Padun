@@ -24,6 +24,20 @@ I enjoy creating games with Unity and C#. I have commercial experience developin
 - JSON
 - DOTween
 - Scriptable Objects
+- 
+## 🔥 Currently Working On
+
+🎯 **Ascenday**
+
+A desktop productivity application inspired by RPG mechanics.
+
+Features:
+- ⚔️ Character progression
+- 📅 Daily quests
+- 🏆 Achievements
+- 📈 Statistics
+- 💾 Local save system
+- 🎨 Modern UI
 
 ## 📂 Featured Projects
 
