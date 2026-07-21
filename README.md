@@ -1,10 +1,56 @@
-- 👋 Hi, I’m @1Padun
-- 👀 I’m interested in creating AI or games
-- 🌱 I’m currently developing video games
-- main projects: Forest of Despair / Cuberacer
-- 📫 How to reach me fasthelpmail1@gmail.com
+# Hi, I'm Andrii 👋
 
-<!---
-1Padun/1Padun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Junior Unity Developer from Ukraine
+
+I enjoy creating games with Unity and C#. I have commercial experience developing multiplayer games and continue improving my skills through personal projects.
+
+## 🚀 About Me
+
+- 🎮 Junior Unity Developer
+- 💼 1 year of commercial experience
+- 🌐 Experienced with multiplayer development (Photon PUN 2)
+- 🧠 Interested in gameplay programming, networking and game architecture
+- 📚 Currently learning advanced Unity patterns and game development
+
+## 🛠 Tech Stack
+
+- Unity
+- C#
+- Photon PUN 2
+- Photon Voice
+- ASP.NET Core
+- REST API
+- Git
+- JSON
+- DOTween
+- Scriptable Objects
+
+## 📂 Featured Projects
+
+### 🎲 Growщі *(Commercial Project)*
+Multiplayer WebGL board game inspired by Cashflow.
+
+**Features**
+- Multiplayer (2–8 players)
+- Photon Networking
+- Voice Chat
+- Backend API
+- WebGL
+
+---
+
+### 🌲 Forest of Despair
+3D horror game created in Unity.
+
+---
+
+### 🚗 CubeRacer
+Fast-paced arcade game built as a personal project.
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/andrii-kovalchuk-428a09234
+- Portfolio: https://1padun.github.io/GitHubPortfolioV2/
+- Email: PadunHZxc@gmail.com
+
+Thanks for visiting my profile!
