@@ -10,7 +10,7 @@ I enjoy creating games with Unity and C#. I have commercial experience developin
 - 💼 1 year of commercial experience
 - 🌐 Experienced with multiplayer development (Photon PUN 2)
 - 🧠 Interested in gameplay programming, networking and game architecture
-- 📚 Currently learning advanced Unity patterns and game development
+- 🚀 Currently developing **Ascenday**, a gamified productivity and life tracker
 
 ## 🛠 Tech Stack
 
